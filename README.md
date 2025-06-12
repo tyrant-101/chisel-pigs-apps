@@ -7,6 +7,6 @@ chiselpigs.co.uk
 ## App Urls
 An open source scrum.poker application forked from this repository https://github.com/axeleroy/self-host-planning-poker/tree/main
 
-🔗 chiselpigs.co.uk/scrum-poker
+🔗 https://chiselpigs.co.uk/scrum-poker
 
 
