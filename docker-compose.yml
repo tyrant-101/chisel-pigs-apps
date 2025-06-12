@@ -6,6 +6,7 @@ services:
       - 443:443
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /etc/letsencrypt/live/chiselpigs.co.uk:/etc/letsencrypt/live/chiselpigs.co.uk
   scrum-poker:
     image: axeleroy/self-host-planning-poker:latest
     ports:
